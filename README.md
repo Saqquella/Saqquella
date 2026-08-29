@@ -1,5 +1,6 @@
-<img width="600" height="450" alt="lain(faster)" src="https://github.com/user-attachments/assets/54887859-db94-4b64-91c9-1aff52e9755c" />
-
+<p
+  <img width="600" height="450" alt="lain(faster)" src="https://github.com/user-attachments/assets/54887859-db94-4b64-91c9-1aff52e9755c" />
+</p>
 ## Hi there 👋
 
 Я студент 3 курса по направлению "Информационная безопасность автоматизированных систем" (10.05.03) из Санкт-Петербурга. Увлекаюсь низкоуровневым программированием, автоматизацией и криптографией. 
